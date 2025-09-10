@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Serengeti National Park",
+    "country": "Tanzania",
+    "coordinates": {
+      "lat": -2.3333,
+      "lng": 34.8333
+    },
+    "size": "14,750 km²",
+    "established": 1951,
+    "keySpecies": ["African Lion", "African Elephant", "Cheetah", "Wildebeest", "Zebra"],
+    "description": "Famous for the Great Migration and diverse ecosystem of the African savanna",
+    "threats": ["Poaching", "Human encroachment", "Climate change"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 350000,
+    "image": "serengeti.jpg",
+    "funFact": "Over 1.5 million wildebeest migrate here annually"
+  },
+  {
+    "id": 2,
+    "name": "Yellowstone National Park",
+    "country": "USA",
+    "coordinates": {
+      "lat": 44.4280,
+      "lng": -110.5885
+    },
+    "size": "8,991 km²",
+    "established": 1872,
+    "keySpecies": ["Gray Wolf", "Grizzly Bear", "Bison", "Elk", "Bald Eagle"],
+    "description": "World's first national park featuring geothermal wonders and pristine wilderness",
+    "threats": ["Climate change", "Invasive species", "Tourism pressure"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 4000000,
+    "image": "yellowstone.jpg",
+    "funFact": "Home to over 10,000 geothermal features including Old Faithful"
+  },
+  {
+    "id": 3,
+    "name": "Galápagos National Park",
+    "country": "Ecuador",
+    "coordinates": {
+      "lat": -0.7893,
+      "lng": -91.0542
+    },
+    "size": "7,995 km²",
+    "established": 1959,
+    "keySpecies": ["Galápagos Tortoise", "Marine Iguana", "Blue-footed Booby", "Darwin's Finches"],
+    "description": "Living laboratory of evolution with unique endemic species",
+    "threats": ["Invasive species", "Tourism impact", "Climate change"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 275000,
+    "image": "galapagos.jpg",
+    "funFact": "Inspired Charles Darwin's theory of evolution"
+  },
+  {
+    "id": 4,
+    "name": "Kruger National Park",
+    "country": "South Africa",
+    "coordinates": {
+      "lat": -24.0078,
+      "lng": 31.4977
+    },
+    "size": "19,485 km²",
+    "established": 1898,
+    "keySpecies": ["African Elephant", "Rhinoceros", "Cape Buffalo", "Leopard", "African Lion"],
+    "description": "Africa's flagship safari destination with incredible Big Five wildlife",
+    "threats": ["Rhino poaching", "Human-wildlife conflict", "Drought"],
+    "conservationStatus": "National Park",
+    "visitorsPerYear": 2000000,
+    "image": "kruger.jpg",
+    "funFact": "Home to more species of large mammals than any other African game reserve"
+  },
+  {
+    "id": 5,
+    "name": "Great Barrier Reef Marine Park",
+    "country": "Australia",
+    "coordinates": {
+      "lat": -18.2871,
+      "lng": 147.6992
+    },
+    "size": "344,400 km²",
+    "established": 1975,
+    "keySpecies": ["Green Sea Turtle", "Whale Shark", "Manta Ray", "Clownfish", "Great White Shark"],
+    "description": "World's largest coral reef system visible from space",
+    "threats": ["Coral bleaching", "Water pollution", "Crown-of-thorns starfish"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 2300000,
+    "image": "great-barrier-reef.jpg",
+    "funFact": "Contains over 2,900 individual coral reefs"
+  },
+  {
+    "id": 6,
+    "name": "Banff National Park",
+    "country": "Canada",
+    "coordinates": {
+      "lat": 51.4968,
+      "lng": -115.9281
+    },
+    "size": "6,641 km²",
+    "established": 1885,
+    "keySpecies": ["Grizzly Bear", "Mountain Goat", "Elk", "Bighorn Sheep", "Golden Eagle"],
+    "description": "Pristine Rocky Mountain wilderness with glacial lakes and peaks",
+    "threats": ["Climate change", "Tourism pressure", "Wildlife corridors"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 4100000,
+    "image": "banff.jpg",
+    "funFact": "Canada's first national park and part of the Canadian Rocky Mountain Parks"
+  },
+  {
+    "id": 7,
+    "name": "Pantanal Conservation Area",
+    "country": "Brazil",
+    "coordinates": {
+      "lat": -19.0208,
+      "lng": -57.6536
+    },
+    "size": "187,818 km²",
+    "established": 2000,
+    "keySpecies": ["Jaguar", "Giant Otter", "Hyacinth Macaw", "Caiman", "Capybara"],
+    "description": "World's largest tropical wetland with incredible biodiversity",
+    "threats": ["Agricultural expansion", "Water diversion", "Mining"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 120000,
+    "image": "pantanal.jpg",
+    "funFact": "Floods seasonally creating a massive inland sea"
+  },
+  {
+    "id": 8,
+    "name": "Sagarmatha National Park",
+    "country": "Nepal",
+    "coordinates": {
+      "lat": 27.9881,
+      "lng": 86.9250
+    },
+    "size": "1,148 km²",
+    "established": 1976,
+    "keySpecies": ["Snow Leopard", "Red Panda", "Himalayan Black Bear", "Blue Sheep"],
+    "description": "Home to Mount Everest and rare high-altitude wildlife",
+    "threats": ["Climate change", "Tourism impact", "Habitat fragmentation"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 45000,
+    "image": "sagarmatha.jpg",
+    "funFact": "Contains the world's highest peak at 8,848 meters"
+  },
+  {
+    "id": 9,
+    "name": "Komodo National Park",
+    "country": "Indonesia",
+    "coordinates": {
+      "lat": -8.5521,
+      "lng": 119.4865
+    },
+    "size": "1,733 km²",
+    "established": 1980,
+    "keySpecies": ["Komodo Dragon", "Orange-footed Scrubfowl", "Timor Deer", "Water Buffalo"],
+    "description": "Last refuge of the legendary Komodo dragon",
+    "threats": ["Tourism pressure", "Illegal fishing", "Natural disasters"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 180000,
+    "image": "komodo-park.jpg",
+    "funFact": "Only place on Earth where Komodo dragons live in the wild"
+  },
+  {
+    "id": 10,
+    "name": "Bwindi Impenetrable National Park",
+    "country": "Uganda",
+    "coordinates": {
+      "lat": -1.0674,
+      "lng": 29.7624
+    },
+    "size": "331 km²",
+    "established": 1991,
+    "keySpecies": ["Mountain Gorilla", "Forest Elephant", "Chimpanzee", "L'Hoest's Monkey"],
+    "description": "Ancient rainforest home to half the world's mountain gorillas",
+    "threats": ["Human encroachment", "Disease transmission", "Climate change"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 20000,
+    "image": "bwindi.jpg",
+    "funFact": "Contains over 400 mountain gorillas - nearly half the world's population"
+  },
+  {
+    "id": 11,
+    "name": "Vatnajökull National Park",
+    "country": "Iceland",
+    "coordinates": {
+      "lat": 64.0685,
+      "lng": -16.9543
+    },
+    "size": "14,141 km²",
+    "established": 2008,
+    "keySpecies": ["Arctic Fox", "Reindeer", "Pink-footed Goose", "Gyrfalcon"],
+    "description": "Land of fire and ice with glaciers, volcanoes, and unique Arctic wildlife",
+    "threats": ["Climate change", "Volcanic activity", "Tourism pressure"],
+    "conservationStatus": "World Heritage Site",
+    "visitorsPerYear": 800000,
+    "image": "vatnajokull.jpg",
+    "funFact": "Covers 14% of Iceland and contains Europe's largest glacier"
+  },
+  {
+    "id": 12,
+    "name": "Torres del Paine National Park",
+    "country": "Chile",
+    "coordinates": {
+      "lat": -50.9423,
+      "lng": -73.4068
+    },
+    "size": "2,417 km²",
+    "established": 1959,
+    "keySpecies": ["Puma", "Guanaco", "Andean Condor", "Chilean Flamingo", "Darwin's Rhea"],
+    "description": "Dramatic Patagonian landscape with towering granite peaks",
+    "threats": ["Climate change", "Tourism impact", "Invasive species"],
+    "conservationStatus": "Biosphere Reserve",
+    "visitorsPerYear": 250000,
+    "image": "torres-del-paine.jpg",
+    "funFact": "Named for the three distinctive granite towers reaching 2,500 meters"
+  }
+]
