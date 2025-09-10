@@ -1,0 +1,15 @@
+/* Custom styles for About page */
+.about-section {
+  @apply bg-green py-12 px-4;
+}
+
+/* Style for stats cards */
+.stats-card {
+  @apply bg-brown p-6 rounded-lg shadow-lg;
+}
+
+/* Hover effect for stats */
+.stats-card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease;
+}

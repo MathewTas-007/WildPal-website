@@ -1,0 +1,24 @@
+/* Custom styles for Animal Kingdom page */
+.animal-grid {
+  @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto;
+}
+
+/* Style for animal cards */
+.animal-card {
+  @apply bg-brown rounded-lg overflow-hidden shadow-lg;
+}
+
+/* Hover effect for cards */
+.animal-card:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+/* Video link button */
+.animal-video-link {
+  @apply px-4 py-2 bg-blue text-white rounded;
+}
+
+.animal-video-link:hover {
+  @apply bg-gold;
+}

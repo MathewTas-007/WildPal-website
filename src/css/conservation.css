@@ -1,0 +1,14 @@
+/* Custom styles for Conservation page */
+.conservation-section {
+  @apply bg-green py-12 px-4;
+}
+
+/* Style for reserve cards */
+.reserve-card {
+  @apply bg-brown rounded-lg overflow-hidden shadow-lg;
+}
+
+/* Lottie map container */
+.map-animation {
+  @apply w-full h-96 mx-auto;
+}

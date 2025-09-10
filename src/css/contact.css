@@ -1,0 +1,29 @@
+/* Custom styles for Contact page */
+.contact-section {
+  @apply bg-green py-12 px-4 flex flex-col items-center;
+}
+
+/* Style for contact form */
+.contact-form {
+  @apply max-w-lg w-full bg-brown p-6 rounded-lg shadow-lg;
+}
+
+/* Input and textarea styles */
+.contact-form input,
+.contact-form textarea {
+  @apply w-full px-4 py-2 bg-white text-brown rounded focus:outline-none focus:ring-2 focus:ring-gold;
+}
+
+/* Submit button */
+.contact-submit {
+  @apply w-full px-4 py-2 bg-blue text-white font-semibold rounded;
+}
+
+.contact-submit:hover {
+  @apply bg-gold;
+}
+
+/* Social icons */
+.social-icons {
+  @apply flex gap-4 mt-8;
+}

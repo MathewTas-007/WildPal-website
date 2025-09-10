@@ -1,0 +1,25 @@
+/* Reset default browser styles for consistency */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Remove list styles */
+ul, ol {
+  list-style: none;
+}
+
+/* Normalize links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Normalize buttons */
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font: inherit;
+}
